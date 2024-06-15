@@ -1,4 +1,4 @@
-module github.com/3Davydov/rd-proto
+module github.com/3Davydov/rd-proto/v2
 
 go 1.22.2
 
